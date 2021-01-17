@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 54 32"
+   id="svg19"
+   sodipodi:docname="bookmarks.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="946"
+     id="namedview21"
+     showgrid="true"
+     inkscape:zoom="2.6643519"
+     inkscape:cx="25.289474"
+     inkscape:cy="3.1871942"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     id="22-22-bookmarks"
+     transform="translate(-420.72 -516.79)">
+    <rect
+       transform="translate(420.71 524.79)"
+       x="-7.1557e-8"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0"
+       id="rect5" />
+    <path
+       class="ColorScheme-Text"
+       d="m426.71 529.79v16l5-2 5 2v-16h-10m1 1h8v13.6l-4-1.5996-4 1.5996v-13.6"
+       fill="currentColor"
+       id="path7" />
+  </g>
+  <g
+     id="bookmarks">
+    <rect
+       x="22"
+       y="1.5506744e-08"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       opacity="0"
+       id="rect12" />
+    <g
+       id="g878"
+       transform="translate(-26)">
+      <rect
+         style="fill:#00c19f;fill-opacity:1;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect866"
+         width="6"
+         height="10"
+         x="61"
+         y="19"
+         ry="3" />
+      <rect
+         style="fill:#00c19f;fill-opacity:1;stroke-width:3.69864;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect864"
+         width="18"
+         height="19"
+         x="55"
+         y="3"
+         ry="4" />
+      <path
+         id="rect868"
+         style="fill:#7de0ce;fill-opacity:1;stroke-width:3.79472;stroke-linecap:round;paint-order:stroke fill markers"
+         d="M 58.636719,3 C 56.622173,3 55,4.6221732 55,6.6367188 V 11 H 73 V 6.6367188 C 73,4.6221732 71.377827,3 69.363281,3 Z" />
+    </g>
+  </g>
+</svg>
