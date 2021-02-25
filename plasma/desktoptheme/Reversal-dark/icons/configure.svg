@@ -5,9 +5,42 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg17"
-   viewBox="0 0 54 32"
-   version="1.1">
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="configure.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="935"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="7.5359251"
+     inkscape:cx="5.0204524"
+     inkscape:cy="10.324503"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -26,28 +59,236 @@
        type="text/css"
        id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
   </defs>
-  <g
-     id="22-22-configure">
-    <path
-       id="path7"
-       fill="currentColor"
-       class="ColorScheme-Text"
-       d="m10.379 11.697c-0.50331 0-0.9082 0.40491-0.9082 0.9082v1.8008c-0.48831 0.14148-0.95908 0.33892-1.4023 0.58789l-1.2754-1.2793c-0.35589-0.35589-0.92926-0.35589-1.2852 0l-1.2852 1.2852c-0.35589 0.35589-0.35589 0.92926 0 1.2852l1.2715 1.2734c-0.24582 0.44507-0.44013 0.9169-0.57812 1.4062h-1.8047c-0.50331 0-0.9082 0.40487-0.9082 0.9082v1.8164c0 0.50333 0.4049 0.9082 0.9082 0.9082h1.8008c0.14148 0.48832 0.33892 0.95908 0.58789 1.4023l-1.2773 1.2773c-0.35589 0.35589-0.35589 0.92927 0 1.2852l1.2852 1.2832c0.35589 0.35589 0.92926 0.35589 1.2852 0l1.2715-1.2715c0.445 0.24631 0.91683 0.44163 1.4062 0.58008v1.8027c0 0.50329 0.4049 0.9082 0.9082 0.9082h1.8164c0.50331 0 0.91016-0.40491 0.91016-0.9082v-1.8008c0.48831-0.14148 0.95712-0.33892 1.4004-0.58789l1.2793 1.2773c0.35589 0.35589 0.92731 0.35589 1.2832 0l1.2852-1.2832c0.35589-0.35589 0.35589-0.92927 0-1.2852l-1.2715-1.2715c0.24641-0.44546 0.43978-0.9183 0.57812-1.4082h1.8047c0.50331 0 0.9082-0.40487 0.9082-0.9082v-1.8164c0-0.50333-0.4049-0.9082-0.9082-0.9082h-1.8027c-0.14148-0.48831-0.33697-0.95908-0.58594-1.4023l1.2773-1.2773c0.35589-0.35589 0.35589-0.92926 0-1.2852l-1.2852-1.2852c-0.35589-0.35589-0.92731-0.35589-1.2832 0l-1.2734 1.2734c-0.44552-0.24592-0.9164-0.44023-1.4062-0.57812v-1.8047c0-0.50329-0.40685-0.9082-0.91016-0.9082zm0.9082 5.2676c2.1079-1.47e-4 3.8166 1.7085 3.8164 3.8164 1.47e-4 2.1079-1.7085 3.8166-3.8164 3.8164-2.1079 1.48e-4 -3.8166-1.7085-3.8164-3.8164-1.475e-4 -2.1079 1.7085-3.8166 3.8164-3.8164z" />
-    <path
-       id="path9"
-       fill="none"
-       d="m0 10v22h22v-22h-22z" />
-  </g>
+  <path
+     id="path7"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     d="m -11.70323,-18.16787 c -0.50331,0 -0.9082,0.40491 -0.9082,0.9082 v 1.8008 c -0.48831,0.14148 -0.95908,0.33892 -1.4023,0.58789 l -1.2754,-1.2793 c -0.35589,-0.35589 -0.92926,-0.35589 -1.2852,0 l -1.2852,1.2852 c -0.35589,0.35589 -0.35589,0.92926 0,1.2852 l 1.2715,1.2734 c -0.24582,0.44507 -0.44013,0.9169 -0.57812,1.4062 h -1.8047 c -0.50331,0 -0.9082,0.40487 -0.9082,0.9082 v 1.8164 c 0,0.50333 0.4049,0.9082 0.9082,0.9082 h 1.8008 c 0.14148,0.48832 0.33892,0.95908 0.58789,1.4023 l -1.2773,1.2773 c -0.35589,0.35589 -0.35589,0.92927 0,1.2852 l 1.2852,1.2832 c 0.35589,0.35589 0.92926,0.35589 1.2852,0 l 1.2715,-1.2715 c 0.445,0.24631 0.91683,0.44163 1.4062,0.58008 v 1.8027 c 0,0.50329 0.4049,0.9082 0.9082,0.9082 h 1.8164 c 0.50331,0 0.91016,-0.40491 0.91016,-0.9082 V -2.709 c 0.48831,-0.14148 0.95712,-0.33892 1.4004,-0.58789 l 1.2793,1.2773 c 0.35589,0.35589 0.92731,0.35589 1.2832,0 l 1.2852,-1.2832 c 0.35589,-0.35589 0.35589,-0.92927 0,-1.2852 L -5,-5.85949 c 0.24641,-0.44546 0.43978,-0.9183 0.57812,-1.4082 h 1.8047 c 0.50331,0 0.9082,-0.40487 0.9082,-0.9082 v -1.8164 c 0,-0.50333 -0.4049,-0.9082 -0.9082,-0.9082 h -1.8027 c -0.14148,-0.48831 -0.33697,-0.95908 -0.58594,-1.4023 l 1.2773,-1.2773 c 0.35589,-0.35589 0.35589,-0.92926 0,-1.2852 l -1.2852,-1.2852 c -0.35589,-0.35589 -0.92731,-0.35589 -1.2832,0 l -1.2734,1.2734 c -0.44552,-0.24592 -0.9164,-0.44023 -1.4062,-0.57812 v -1.8047 c 0,-0.50329 -0.40685,-0.9082 -0.91016,-0.9082 z m 0.9082,5.2676 c 2.1079,-1.47e-4 3.8166,1.7085 3.8164,3.8164 1.47e-4,2.1079 -1.7085,3.8166 -3.8164,3.8164 -2.1079,1.48e-4 -3.8166,-1.7085 -3.8164,-3.8164 -1.47e-4,-2.1079 1.7085,-3.8166 3.8164,-3.8164 z" />
+  <path
+     id="path12"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     d="m 14.75584,-24.88076 c -0.68924,0 -1.2441,0.55492 -1.2441,1.2441 v 2.4648 c -0.6687,0.19375 -1.3129,0.46375 -1.9199,0.80469 l -1.748,-1.75 c -0.48736,-0.48736 -1.2724,-0.48736 -1.7598,0 l -1.7598,1.7598 c -0.48736,0.48736 -0.48736,1.2724 0,1.7598 l 1.7422,1.7422 c -0.33663,0.60948 -0.60204,1.2557 -0.79102,1.9258 h -2.4727 c -0.68924,0 -1.2441,0.55488 -1.2441,1.2441 v 2.4883 c 0,0.68926 0.5549,1.2441 1.2441,1.2441 h 2.4668 c 0.19375,0.6687 0.46375,1.3129 0.80469,1.9199 l -1.75,1.75 c -0.48736,0.48736 -0.48736,1.2705 0,1.7578 l 1.7598,1.7598 c 0.48736,0.48736 1.2724,0.48736 1.7598,0 l 1.7422,-1.7422 c 0.60939,0.3373 1.2556,0.60337 1.9258,0.79297 v 2.4707 c 0,0.68922 0.5549,1.2441 1.2441,1.2441 h 2.4883 c 0.68924,0 1.2441,-0.55492 1.2441,-1.2441 v -2.4668 c 0.6687,-0.19375 1.3129,-0.46375 1.9199,-0.80469 l 1.75,1.75 c 0.48736,0.48736 1.2704,0.48736 1.7578,0 l 1.7598,-1.7598 c 0.48736,-0.48736 0.48736,-1.2705 0,-1.7578 l -1.7422,-1.7422 c 0.33744,-0.61001 0.60352,-1.2568 0.79297,-1.9277 h 2.4707 c 0.68924,0 1.2441,-0.55488 1.2441,-1.2441 v -2.4883 c 0,-0.68926 -0.5549,-1.2441 -1.2441,-1.2441 h -2.4668 c -0.19375,-0.6687 -0.46375,-1.3129 -0.80469,-1.9199 l 1.75,-1.748 c 0.48736,-0.48736 0.48736,-1.2724 0,-1.7598 l -1.7598,-1.7598 c -0.48736,-0.48736 -1.2704,-0.48736 -1.7578,0 l -1.7422,1.7422 c -0.6101,-0.33677 -1.2569,-0.60218 -1.9277,-0.79102 v -2.4707 c 0,-0.68922 -0.5549,-1.2441 -1.2441,-1.2441 z m 1.2441,7.2129 c 2.8866,-2.02e-4 5.2268,2.3399 5.2266,5.2266 2.02e-4,2.8866 -2.3399,5.2268 -5.2266,5.2266 -2.8866,2.02e-4 -5.2268,-2.3399 -5.2266,-5.2266 -2.02e-4,-2.8866 2.3399,-5.2268 5.2266,-5.2266 z" />
   <g
      id="configure">
     <path
-       id="path12"
-       fill="currentColor"
-       class="ColorScheme-Text"
-       d="m37.664 4.8008c-0.68924 0-1.2441 0.55492-1.2441 1.2441v2.4648c-0.6687 0.19375-1.3129 0.46375-1.9199 0.80469l-1.748-1.75c-0.48736-0.48736-1.2724-0.48736-1.7598 0l-1.7598 1.7598c-0.48736 0.48736-0.48736 1.2724 0 1.7598l1.7422 1.7422c-0.33663 0.60948-0.60204 1.2557-0.79102 1.9258h-2.4727c-0.68924 0-1.2441 0.55488-1.2441 1.2441v2.4883c0 0.68926 0.5549 1.2441 1.2441 1.2441h2.4668c0.19375 0.6687 0.46375 1.3129 0.80469 1.9199l-1.75 1.75c-0.48736 0.48736-0.48736 1.2705 0 1.7578l1.7598 1.7598c0.48736 0.48736 1.2724 0.48736 1.7598 0l1.7422-1.7422c0.60939 0.3373 1.2556 0.60337 1.9258 0.79297v2.4707c0 0.68922 0.5549 1.2441 1.2441 1.2441h2.4883c0.68924 0 1.2441-0.55492 1.2441-1.2441v-2.4668c0.6687-0.19375 1.3129-0.46375 1.9199-0.80469l1.75 1.75c0.48736 0.48736 1.2704 0.48736 1.7578 0l1.7598-1.7598c0.48736-0.48736 0.48736-1.2705 0-1.7578l-1.7422-1.7422c0.33744-0.61001 0.60352-1.2568 0.79297-1.9277h2.4707c0.68924 0 1.2441-0.55488 1.2441-1.2441v-2.4883c0-0.68926-0.5549-1.2441-1.2441-1.2441h-2.4668c-0.19375-0.6687-0.46375-1.3129-0.80469-1.9199l1.75-1.748c0.48736-0.48736 0.48736-1.2724 0-1.7598l-1.7598-1.7598c-0.48736-0.48736-1.2704-0.48736-1.7578 0l-1.7422 1.7422c-0.6101-0.33677-1.2569-0.60218-1.9277-0.79102v-2.4707c0-0.68922-0.5549-1.2441-1.2441-1.2441zm1.2441 7.2129c2.8866-2.02e-4 5.2268 2.3399 5.2266 5.2266 2.02e-4 2.8866-2.3399 5.2268-5.2266 5.2266-2.8866 2.02e-4 -5.2268-2.3399-5.2266-5.2266-2.02e-4 -2.8866 2.3399-5.2268 5.2266-5.2266z" />
-    <path
        id="path14"
        fill="none"
-       d="m22 0v32h32v-32h-32z" />
+       d="M 0,0 V 32 H 32 V 0 Z" />
+    <g
+       id="g884"
+       transform="translate(-35.5,-1.5)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.3125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="path839"
+         cx="51.5"
+         cy="17.5"
+         r="11.5" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="path841"
+         cx="51.5"
+         cy="3.5"
+         r="1.5" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle843"
+         cx="51.5"
+         cy="31.5"
+         r="1.5" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle845"
+         cx="53.350307"
+         cy="-24.594555"
+         r="1.5"
+         transform="rotate(30)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle847"
+         cx="53.350307"
+         cy="3.4054446"
+         r="1.5"
+         transform="rotate(30)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle849"
+         cx="40.905445"
+         cy="-49.850307"
+         r="1.5"
+         transform="rotate(60)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle851"
+         cx="40.905445"
+         cy="-21.850307"
+         r="1.5"
+         transform="rotate(60)" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle853"
+         cx="17.5"
+         cy="-65.5"
+         r="1.5"
+         transform="rotate(90)" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle855"
+         cx="17.5"
+         cy="-37.5"
+         r="1.5"
+         transform="rotate(90)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle857"
+         cx="-10.594556"
+         cy="-67.350311"
+         r="1.5"
+         transform="rotate(120)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle859"
+         cx="-10.594556"
+         cy="-39.350307"
+         r="1.5"
+         transform="rotate(120)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle861"
+         cx="-35.850307"
+         cy="-54.905449"
+         r="1.5"
+         transform="rotate(150)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle863"
+         cx="-35.850307"
+         cy="-26.905443"
+         r="1.5"
+         transform="rotate(150)" />
+      <circle
+         style="opacity:1;fill:#363636;fill-opacity:1;stroke-width:2.8125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle865"
+         cx="51.5"
+         cy="17.5"
+         r="7.5" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.3125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle867"
+         cx="51.5"
+         cy="17.5"
+         r="3.5" />
+    </g>
+  </g>
+  <g
+     id="22-22-configure">
+    <path
+       id="path9"
+       fill="none"
+       d="M -22.020557,10 V 32 H -0.02055639 V 10 Z" />
+    <g
+       id="g1086"
+       transform="translate(30.979445)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.625;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle983"
+         cx="-42"
+         cy="21"
+         r="7" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle985"
+         cx="-42"
+         cy="12"
+         r="1" />
+      <circle
+         style="fill:#363636;fill-opacity:1;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1009"
+         cx="-42"
+         cy="21"
+         r="5" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.125;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1011"
+         cx="-42"
+         cy="21"
+         r="3" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1049"
+         cx="-42"
+         cy="30"
+         r="1" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1051"
+         cx="-25.873068"
+         cy="30.186533"
+         r="1"
+         transform="rotate(30)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1053"
+         cx="-25.873068"
+         cy="48.186535"
+         r="1"
+         transform="rotate(30)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1055"
+         cx="-2.813467"
+         cy="37.873066"
+         r="1"
+         transform="rotate(60)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1057"
+         cx="-2.813467"
+         cy="55.87307"
+         r="1"
+         transform="rotate(60)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1059"
+         cx="21"
+         cy="33"
+         r="1"
+         transform="rotate(90)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1061"
+         cx="21"
+         cy="51.000004"
+         r="1"
+         transform="rotate(90)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1063"
+         cx="39.186535"
+         cy="16.873066"
+         r="1"
+         transform="rotate(120)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1065"
+         cx="39.186535"
+         cy="34.87307"
+         r="1"
+         transform="rotate(120)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1067"
+         cx="46.87307"
+         cy="-6.1865354"
+         r="1"
+         transform="rotate(150)" />
+      <circle
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle1069"
+         cx="46.87307"
+         cy="11.813469"
+         r="1"
+         transform="rotate(150)" />
+    </g>
   </g>
 </svg>

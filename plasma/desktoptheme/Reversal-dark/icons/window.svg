@@ -13,7 +13,7 @@
    viewBox="0 0 24 16"
    id="svg35"
    sodipodi:docname="window.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata39">
     <rdf:RDF>
@@ -22,11 +22,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -35,16 +36,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="942"
+     inkscape:window-height="935"
      id="namedview37"
      showgrid="true"
-     inkscape:zoom="16.955831"
-     inkscape:cx="1.8658433"
-     inkscape:cy="16.405749"
+     inkscape:zoom="67.823324"
+     inkscape:cx="19.455547"
+     inkscape:cy="11.126437"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg35">
+     inkscape:current-layer="svg35"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid864" />
@@ -117,23 +122,12 @@
        fill-opacity=".71176"
        id="path11" />
   </g>
-  <g
-     id="window-pin"
-     transform="translate(62,-36)">
-    <rect
-       x="-46"
-       y="44"
-       width="8"
-       height="8"
-       fill="none"
-       id="rect14" />
-    <path
-       class="ColorScheme-Text"
-       d="m -41.249975,45 c -0.291938,0.291938 -0.351264,0.813228 -0.01172,1.382855 l -1.593755,1.066428 c -0.198151,-0.07995 -0.410851,-0.139568 -0.621092,-0.140625 -0.273286,-0.0014 -0.539057,0.08203 -0.773403,0.316411 l 1.125004,1.125004 -1.500005,1.500005 -0.375001,0.750002 0.750002,-0.375001 1.500005,-1.500005 1.125004,1.125004 c 0.415112,-0.415112 0.361779,-0.940429 0.175786,-1.394555 l 1.066428,-1.593755 c 0.56956,0.339548 1.090879,0.280223 1.382855,-0.01172 z"
-       fill="currentColor"
-       id="path16"
-       style="stroke-width:0.750003" />
-  </g>
+  <path
+     class="ColorScheme-Text"
+     d="m 33.499965,9 c -0.291938,0.291938 -0.351264,0.813228 -0.01172,1.382855 l -1.593755,1.066428 c -0.198151,-0.07995 -0.410851,-0.139568 -0.621092,-0.140625 -0.273286,-0.0014 -0.539057,0.08203 -0.773403,0.316411 l 1.125004,1.125004 -1.500005,1.500005 -0.375001,0.750002 0.750002,-0.375001 L 32,13.125074 l 1.125004,1.125004 c 0.415112,-0.415112 0.361779,-0.940429 0.175786,-1.394555 l 1.066428,-1.593755 c 0.56956,0.339548 1.090879,0.280223 1.382855,-0.01172 z"
+     fill="currentColor"
+     id="path16"
+     style="stroke-width:0.750003" />
   <g
      id="window-unpin"
      transform="translate(82,-44)">
@@ -185,5 +179,39 @@
        d="m-22 45v10h10v-10h-10zm1 1h8v8h-8v-8z"
        fill="currentColor"
        id="path32" />
+  </g>
+  <g
+     id="window-pin">
+    <rect
+       x="16"
+       y="8"
+       width="8"
+       height="8"
+       fill="none"
+       id="rect14" />
+    <g
+       id="g857"
+       transform="translate(-5.499907)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="path848"
+         cx="25.499907"
+         cy="11.5"
+         r="2.5" />
+      <circle
+         style="opacity:1;fill:#31363b;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="circle850"
+         cx="25.499907"
+         cy="11.5"
+         r="1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.59808;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.34902;paint-order:stroke fill markers"
+         id="rect852"
+         width="1.0000005"
+         height="3"
+         x="24.999907"
+         y="13"
+         ry="0.50000024" />
+    </g>
   </g>
 </svg>
