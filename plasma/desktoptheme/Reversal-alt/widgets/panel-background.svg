@@ -207,7 +207,7 @@
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       style="color:#eff0f1;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.1547"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.1547"
        id="rect4152"
        width="8.0000181"
        height="32"
@@ -230,7 +230,7 @@
        inkscape:connector-curvature="0"
        id="rect4159"
        d="m 29,910.36218 c -8.863965,0 -16,7.13604 -16,16 h 16 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.66667"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.66667"
        sodipodi:nodetypes="cccc" />
     <path
        id="path71"
@@ -239,7 +239,7 @@
        transform="translate(-31,904.36218)" />
   </g>
   <rect
-     style="color:#eff0f1;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3750031"
+     style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3750031"
      id="center"
      width="12.000099"
      height="12.000099"

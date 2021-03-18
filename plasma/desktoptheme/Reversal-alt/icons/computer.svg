@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="70"
-   height="64"
+   width="32"
+   height="32"
    version="1.0"
    id="svg55"
    sodipodi:docname="computer.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata59">
     <rdf:RDF>
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,20 +35,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="946"
+     inkscape:window-height="940"
      id="namedview57"
      showgrid="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="8.6068154"
-     inkscape:cx="42.296695"
-     inkscape:cy="42.611193"
+     inkscape:zoom="12.171875"
+     inkscape:cx="-6.5095077"
+     inkscape:cy="54.900218"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg55">
+     inkscape:current-layer="svg55"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid884" />
@@ -59,30 +61,10 @@
        type="text/css">.ColorScheme-Text { color:#363636; }</style>
   </defs>
   <g
-     id="16-16-computer">
-    <rect
-       y="48"
-       width="16"
-       height="16"
-       rx="0"
-       ry="0"
-       fill="none"
-       id="rect5" />
-    <path
-       class="ColorScheme-Text"
-       d="m4.5 62h7c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z"
-       fill="currentColor"
-       id="path7" />
-    <path
-       class="ColorScheme-Text"
-       d="m2 50c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z"
-       fill="currentColor"
-       id="path9" />
-  </g>
-  <g
      id="22-22-computer"
      class="ColorScheme-Text"
-     fill="currentColor">
+     fill="currentColor"
+     transform="translate(-38)">
     <rect
        x="16"
        y="42"
@@ -91,20 +73,20 @@
        opacity="0"
        id="rect12" />
     <path
-       d="m20 45c-1.662 0-3 1.338-3 3v9c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-9c0-1.662-1.338-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v9c0 1.108-0.892 2-2 2h-14c-1.108 0-2-0.892-2-2v-9c0-1.108 0.892-2 2-2z"
+       d="m 20,45 c -1.662,0 -3,1.338 -3,3 v 9 c 0,1.662 1.338,3 3,3 h 14 c 1.662,0 3,-1.338 3,-3 v -9 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 14 c 1.108,0 2,0.892 2,2 v 9 c 0,1.108 -0.892,2 -2,2 H 20 c -1.108,0 -2,-0.892 -2,-2 v -9 c 0,-1.108 0.892,-2 2,-2 z"
        id="path14" />
     <rect
        x="21"
        y="61"
        width="12"
        height="1"
-       rx=".5"
-       ry=".5"
+       rx="0.5"
+       ry="0.5"
        id="rect16" />
   </g>
   <g
      id="22-22-computer-laptop"
-     transform="translate(0,-32)"
+     transform="translate(-38,-32)"
      class="ColorScheme-Text"
      fill="currentColor">
     <rect
@@ -115,19 +97,20 @@
        opacity="0"
        id="rect41" />
     <path
-       d="m20 45c-1.662 0-3 1.338-3 3v9c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-9c0-1.662-1.338-3-3-3zm0 1h14c1.108 0 2 0.892 2 2v9c0 1.108-0.892 2-2 2h-14c-1.108 0-2-0.892-2-2v-9c0-1.108 0.892-2 2-2z"
+       d="m 20,45 c -1.662,0 -3,1.338 -3,3 v 9 c 0,1.662 1.338,3 3,3 h 14 c 1.662,0 3,-1.338 3,-3 v -9 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 14 c 1.108,0 2,0.892 2,2 v 9 c 0,1.108 -0.892,2 -2,2 H 20 c -1.108,0 -2,-0.892 -2,-2 v -9 c 0,-1.108 0.892,-2 2,-2 z"
        id="path43" />
     <rect
        x="17"
        y="60"
        width="20"
        height="1"
-       rx=".5"
-       ry=".5"
+       rx="0.5"
+       ry="0.5"
        id="rect45" />
   </g>
   <g
-     id="16-16-computer-laptop">
+     id="16-16-computer-laptop"
+     transform="translate(-38)">
     <rect
        y="16"
        width="16"
@@ -136,24 +119,27 @@
        ry="0"
        fill="none"
        opacity="0"
-       id="rect48" />
+       id="rect48"
+       x="0" />
     <path
        class="ColorScheme-Text"
-       d="m2 18c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z"
+       d="m 2,18 c -1.108,0 -2,0.892 -2,2 v 7 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 7 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,28 1,27.554 1,27 v -7 c 0,-0.554 0.446,-1 1,-1 z"
        fill="currentColor"
        id="path50" />
     <rect
        y="29"
        width="16"
        height="1"
-       rx=".5"
-       ry=".5"
+       rx="0.5"
+       ry="0.5"
        class="ColorScheme-Text"
        fill="currentColor"
-       id="rect52" />
+       id="rect52"
+       x="0" />
   </g>
   <g
-     id="computer-laptop">
+     id="computer-laptop"
+     transform="translate(-38)">
     <rect
        x="38"
        y="0"
@@ -192,7 +178,7 @@
   </g>
   <g
      id="computer"
-     transform="translate(0,32)">
+     transform="translate(-38,32)">
     <rect
        x="38"
        y="0"
@@ -227,6 +213,35 @@
          x="86"
          y="60"
          ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="16-16-computer"
+     transform="translate(-1)">
+    <rect
+       y="48"
+       width="16"
+       height="16"
+       rx="0"
+       ry="0"
+       fill="none"
+       id="rect5-6"
+       x="-38" />
+    <g
+       id="g879"
+       transform="translate(57,-1)">
+      <path
+         id="rect870"
+         style="opacity:1;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.889;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m -93,50 c -1.108,0 -2,0.892 -2,2 v 7 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 1,2 h 10 c 0.554,0 1,0.446 1,1 v 5 c 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -5 c 0,-0.554 0.446,-1 1,-1 z" />
+      <rect
+         style="opacity:1;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.889;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect875"
+         width="8"
+         height="2"
+         x="-91"
+         y="62"
+         rx="1" />
     </g>
   </g>
 </svg>
