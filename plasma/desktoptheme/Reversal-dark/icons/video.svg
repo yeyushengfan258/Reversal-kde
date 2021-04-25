@@ -12,7 +12,7 @@
    version="1.1"
    id="svg"
    sodipodi:docname="video.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,28 +23,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="942"
+     inkscape:window-height="992"
      id="namedview30"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="17.613636"
-     inkscape:cx="-3.7801002"
-     inkscape:cy="-17.489127"
+     inkscape:zoom="12.454721"
+     inkscape:cx="11.693231"
+     inkscape:cy="0.2161866"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid871" />
-    <sodipodi:guide
-       position="11,51"
-       orientation="1,0"
-       id="guide873" />
   </sodipodi:namedview>
   <metadata
      id="metadata54">
@@ -60,6 +57,18 @@
   </metadata>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient886">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop881" />
+      <stop
+         style="stop-color:#787878;stop-opacity:1"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient887">
@@ -84,64 +93,16 @@
        x2="24"
        y2="-19"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient888"
+       x1="25.999998"
+       y1="10.5"
+       x2="44"
+       y2="10.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  <g
-     fill="currentColor"
-     class="ColorScheme-Text"
-     id="22-22-video-display-brightness">
-    <rect
-       id="rect5"
-       opacity="0"
-       height="22"
-       width="22"
-       y="1.7631e-5"
-       x="9.1292e-7" />
-    <g
-       id="g21"
-       transform="translate(-2.5 .35108)">
-      <path
-         id="path7"
-         d="m4.5 2.6489c-0.554 0-1 0.446-1 1v10h20v-10c0-0.554-0.446-1-1-1zm0 1h18v9h-18z" />
-      <circle
-         id="circle9"
-         opacity=".2"
-         r=".33333"
-         cy="14.659"
-         cx="13.5" />
-      <rect
-         id="rect11"
-         opacity=".844"
-         height="1"
-         width="8"
-         y="18.649"
-         x="9.5" />
-      <path
-         id="path13"
-         opacity=".3"
-         d="m11.5 16.649v1c1.6e-4 0.92464-1.4039 0.88819-2 1h8c-0.59608-0.11181-2.0002-0.0754-2-1v-1h1e-5z" />
-      <rect
-         id="rect15"
-         opacity=".3"
-         height="1"
-         width="4"
-         y="16.649"
-         x="11.5" />
-      <path
-         id="path17"
-         opacity=".9"
-         d="m4.5 2.6489c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-12c0-0.554-0.446-1-1-1zm0 1h18v12h-18z" />
-      <rect
-         id="rect19"
-         opacity=".25"
-         height="9"
-         width="18"
-         y="3.6489"
-         x="4.5" />
-    </g>
-    <path
-       id="path23"
-       d="m11 5c-1.933 0-3.5 1.567-3.5 3.5 0 1.933 1.567 3.5 3.5 3.5 1.933 0 3.5-1.567 3.5-3.5 0-1.933-1.567-3.5-3.5-3.5zm0 1v5c-1.3807 0-2.5-1.1193-2.5-2.5 0-1.3807 1.1193-2.5 2.5-2.5z" />
-  </g>
   <g
      id="video-display-brightness"
      transform="translate(-43,-35)">
@@ -176,6 +137,45 @@
          x="86"
          y="62"
          ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="22-22-video-display-brightness">
+    <rect
+       id="rect5"
+       opacity="0"
+       height="22"
+       width="22"
+       y="1.7631e-05"
+       x="9.1291997e-07"
+       style="color:#363636;fill:#363636" />
+    <g
+       id="g893"
+       transform="translate(-24)">
+      <rect
+         style="fill:#ff4e5e;stroke-width:2.3983;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect875"
+         width="20"
+         height="17"
+         x="25"
+         y="3"
+         ry="2" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.30269;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect877"
+         width="4"
+         height="1"
+         x="33"
+         y="18"
+         ry="0.5" />
+      <rect
+         style="fill:url(#linearGradient888);fill-opacity:1;stroke-width:1.98963;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect879"
+         width="18.000002"
+         height="13"
+         x="25.999998"
+         y="4"
+         ry="1" />
     </g>
   </g>
 </svg>
