@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg49"
    viewBox="0 0 32 32"
    version="1.1"
    sodipodi:docname="phone.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#c8c8c8"
      bordercolor="#666666"
@@ -22,20 +22,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="956"
+     inkscape:window-height="962"
      id="namedview31"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="4.6459125"
-     inkscape:cx="-27.167497"
-     inkscape:cy="-17.845716"
+     inkscape:zoom="13.140625"
+     inkscape:cx="-11.072533"
+     inkscape:cy="-5.6694412"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg49">
+     inkscape:current-layer="svg49"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid856" />
@@ -48,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,14 +79,10 @@
        transform="translate(321,529.36)"
        class="ColorScheme-Text"
        style="fill:#00c19f;fill-opacity:1" />
-    <circle
-       id="circle16"
-       opacity=".5"
-       fill="currentColor"
-       r=".5"
-       cy="497.86"
-       cx="307.5"
-       style="fill:#00c19f;fill-opacity:1" />
+    <path
+       style="color:#363636;fill:#00c19f;-inkscape-stroke:none;opacity:0.5"
+       d="m 308,497.85999 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"
+       id="circle16" />
   </g>
   <g
      fill="currentColor"
@@ -106,21 +103,14 @@
        d="m306 495.36c-1.108 0-2 0.892-2 2v10c0 1.108 0.89199 2 2 2h4c1.108 0 2-0.89199 2-2v-10c0-1.108-0.89199-2-2-2zm0 1h4c0.55401 0 1 0.446 1 1v10c0 0.55401-0.44599 1-1 1h-4c-0.55401 0-1-0.44599-1-1v-10c0-0.554 0.44599-1 1-1z"
        class="ColorScheme-Text"
        style="fill:#00c19f;fill-opacity:1" />
-    <circle
-       id="circle30"
-       opacity=".5"
-       fill="currentColor"
-       r=".5"
-       cy="497.86"
-       cx="306.5"
-       class="ColorScheme-Text"
-       style="fill:#00c19f;fill-opacity:1" />
     <path
-       id="path32"
-       fill="currentColor"
-       d="m308 505.36 1-3h-1v-2l-1 3h1z"
-       class="ColorScheme-Text"
-       style="fill:#00c19f;fill-opacity:1" />
+       style="color:#363636;fill:#00c19f;-inkscape-stroke:none;opacity:0.5"
+       d="m 307,497.85999 a 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 0.5,0.5 0 0 1 0.5,0.5 z"
+       id="circle30" />
+    <path
+       style="color:#363636;fill:#00c19f;-inkscape-stroke:none"
+       d="m 308,505.36 1,-3 h -1 v -2 l -1,3 h 1 z"
+       id="path32" />
   </g>
   <rect
      id="rect10"
@@ -155,17 +145,10 @@
          d="M 11,2 C 9.338,2 8,3.338 8,5 v 22 c 0,1.662 1.338,3 3,3 h 10 c 1.662,0 3,-1.338 3,-3 V 5 C 24,3.338 22.662,2 21,2 Z m 0,2 h 1.4922 l 0.49023,0.65234 C 13.09835,4.80615 13.13748,5 13.33009,5 h 5.3398 C 18.8625,5 18.90163,4.80615 19.01755,4.65234 L 19.50778,4 h 1.4922 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 h -10 c -0.55399,0 -1,-0.44601 -1,-1 V 5 c 0,-0.55399 0.44601,-1 1,-1 z"
          id="path899" />
     </g>
-    <rect
-       id="rect924"
-       opacity="0.5"
-       fill="currentColor"
-       ry="1"
-       height="2"
-       width="8"
-       y="24"
-       x="12"
-       class="ColorScheme-Text"
-       style="stroke-width:1.41422;fill:#00c19f;fill-opacity:1;opacity:0.35" />
+    <path
+       style="color:#363636;fill:#00c19f;stroke-width:1.41422;-inkscape-stroke:none;opacity:0.35"
+       d="m 13,24 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+       id="rect924" />
   </g>
   <g
      id="22-22-phone">
@@ -186,17 +169,10 @@
        d="m 48,6 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 V 9 C 59,7.338 57.662,6 56,6 Z m 0,2 h 8 c 0.55399,0 1,0.44601 1,1 v 14 c 0,0.55399 -0.44601,1 -1,1 h -8 c -0.55399,0 -1,-0.44601 -1,-1 V 9 c 0,-0.55399 0.44601,-1 1,-1 z"
        id="path917"
        sodipodi:nodetypes="ssssssssssssssssss" />
-    <rect
-       id="rect960"
-       opacity="0.5"
-       fill="currentColor"
-       ry="1"
-       height="2"
-       width="6"
-       y="20"
-       x="49"
-       class="ColorScheme-Text"
-       style="stroke-width:1.41421;fill:#00c19f;fill-opacity:1;opacity:0.35" />
+    <path
+       style="color:#363636;fill:#00c19f;stroke-width:1.41421;-inkscape-stroke:none;opacity:0.35"
+       d="m 50,20 h 4 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -4 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+       id="rect960" />
   </g>
   <g
      id="22-22-phone-battery">
@@ -209,10 +185,9 @@
        x="41"
        style="color:#363636" />
     <path
-       id="path39"
+       style="color:#363636;fill:#00c19f;-inkscape-stroke:none"
        d="m 52,-30 -2,5 h 2 v 3 l 2,-5 h -2 z"
-       style="color:#363636;fill:#00c19f;fill-opacity:1"
-       sodipodi:nodetypes="ccccccc" />
+       id="path39" />
     <g
        id="g990"
        transform="translate(-27,29.000015)">
@@ -225,17 +200,10 @@
          d="m 75,-64 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 v -14 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 8 c 0.55399,0 1,0.44601 1,1 v 14 c 0,0.55399 -0.44601,1 -1,1 h -8 c -0.55399,0 -1,-0.44601 -1,-1 v -14 c 0,-0.55399 0.44601,-1 1,-1 z"
          id="path975"
          sodipodi:nodetypes="ssssssssssssssssss" />
-      <rect
-         id="rect977"
-         opacity="0.5"
-         fill="currentColor"
-         ry="1"
-         height="2"
-         width="6"
-         y="-50"
-         x="76"
-         class="ColorScheme-Text"
-         style="opacity:0.35;fill:#00c19f;fill-opacity:1;stroke-width:1.41421" />
+      <path
+         style="color:#363636;fill:#00c19f;stroke-width:1.41421;-inkscape-stroke:none;opacity:0.35"
+         d="m 77,-50 h 4 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -4 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+         id="rect977" />
     </g>
   </g>
   <g
@@ -259,22 +227,14 @@
            d="M 11,2 C 9.338,2 8,3.338 8,5 v 22 c 0,1.662 1.338,3 3,3 h 10 c 1.662,0 3,-1.338 3,-3 V 5 C 24,3.338 22.662,2 21,2 Z m 0,2 h 1.4922 l 0.49023,0.65234 C 13.09835,4.80615 13.13748,5 13.33009,5 h 5.3398 C 18.8625,5 18.90163,4.80615 19.01755,4.65234 L 19.50778,4 h 1.4922 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 h -10 c -0.55399,0 -1,-0.44601 -1,-1 V 5 c 0,-0.55399 0.44601,-1 1,-1 z"
            id="path929" />
       </g>
-      <rect
-         id="rect933"
-         opacity="0.5"
-         fill="currentColor"
-         ry="1"
-         height="2"
-         width="8"
-         y="-50"
-         x="12"
-         class="ColorScheme-Text"
-         style="opacity:0.35;fill:#00c19f;fill-opacity:1;stroke-width:1.41422" />
+      <path
+         style="color:#363636;fill:#00c19f;stroke-width:1.41422;-inkscape-stroke:none;opacity:0.35"
+         d="m 13,-50 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+         id="rect933" />
     </g>
     <path
-       id="path19"
+       style="color:#363636;fill:#00c19f;-inkscape-stroke:none"
        d="m 16.5,-34 -4,8 H 15 v 6 l 4.5,-8 h -3 z"
-       style="color:#363636;fill:#00c19f;fill-opacity:1"
-       sodipodi:nodetypes="ccccccc" />
+       id="path19" />
   </g>
 </svg>
